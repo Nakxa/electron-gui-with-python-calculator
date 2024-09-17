@@ -1,0 +1,12 @@
+{
+    "name": "electron-python-calculator",
+    "version": "1.0.0",
+    "description": "A calculator using Electron and Python",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "dependencies": {
+      "electron": "^13.0.0"
+    }
+  }
